@@ -1,0 +1,61 @@
+body {
+
+    background:url("img/imagem1.JPG"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+
+}
+
+
+
+h1{
+    text-align: center;
+    background-color: #851944;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+
+h2 {
+
+    text-align: center;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+
+
+
+h3{
+
+    text-align: center;
+    color: white;
+    font-family: "Open Sans Condesed", sans-serif;
+}
+
+input {
+
+    text-align: center;
+}
+
+
+.formulario1 {
+
+display: flex;
+justify-content: center;
+    flex-direction: row;
+
+
+
+}
+
+
+.formulario2 {
+
+    display: flex;
+    justify-content: center;
+        flex-direction: row;
+    
+    
+    
+    }
